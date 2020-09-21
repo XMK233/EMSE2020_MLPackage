@@ -1,0 +1,384 @@
+module_type,network_architecture,dataset,name,versions,fmts,fmt_str,author
+audio-embedding,KeyWordSpottingNet,None,speech_embedding@@google,1,1,hub,1
+audio-embedding,MobileNet,AudioSet,nonsemantic-speech-benchmark-trill-distilled@@google,1,1,saved_model_2,1
+audio-embedding,ResNet,AudioSet,nonsemantic-speech-benchmark-trill@@google,1,1,saved_model_2,1
+audio-pitch-extraction,None,None,spice@@google,1,1,saved_model,1
+image-augmentation,None,CIFAR-10,image_augmentation-nas_cifar@@google,1,1,hub,1
+image-augmentation,None,ImageNet,image_augmentation-nas_imagenet@@google,1,1,hub,1
+image-augmentation,None,None,image_augmentation-crop_color@@google,1,1,hub,1
+image-augmentation,None,None,image_augmentation-crop_rotate_color@@google,1,1,hub,1
+image-augmentation,None,None,image_augmentation-flipx_crop_rotate_color@@google,1,1,hub,1
+image-augmentation,None,SVHN,image_augmentation-nas_svhn@@google,1,1,hub,1
+image-classification,AmoebaNet-A (N=18| F=448),ImageNet (ILSVRC-2012-CLS),imagenet-amoebanet_a_n18_f448-classification@@google,1,1,hub,1
+image-classification,EfficientNet-B0,ImageNet (ILSVRC-2012-CLS),efficientnet-b0-classification@@google,1,1,hub,1
+image-classification,EfficientNet-B0,ImageNet (ILSVRC-2012-CLS),efficientnet-lite0-classification@@tensorflow,1,1,hub,1
+image-classification,EfficientNet-B1,ImageNet (ILSVRC-2012-CLS),efficientnet-b1-classification@@google,1,1,hub,1
+image-classification,EfficientNet-B1,ImageNet (ILSVRC-2012-CLS),efficientnet-lite1-classification@@tensorflow,1,1,hub,1
+image-classification,EfficientNet-B2,ImageNet (ILSVRC-2012-CLS),efficientnet-b2-classification@@google,1,1,hub,1
+image-classification,EfficientNet-B2,ImageNet (ILSVRC-2012-CLS),efficientnet-lite2-classification@@tensorflow,1,1,hub,1
+image-classification,EfficientNet-B3,ImageNet (ILSVRC-2012-CLS),efficientnet-b3-classification@@google,1,1,hub,1
+image-classification,EfficientNet-B3,ImageNet (ILSVRC-2012-CLS),efficientnet-lite3-classification@@tensorflow,1,1,hub,1
+image-classification,EfficientNet-B4,ImageNet (ILSVRC-2012-CLS),efficientnet-b4-classification@@google,1,1,hub,1
+image-classification,EfficientNet-B4,ImageNet (ILSVRC-2012-CLS),efficientnet-lite4-classification@@tensorflow,1,1,hub,1
+image-classification,EfficientNet-B5,ImageNet (ILSVRC-2012-CLS),efficientnet-b5-classification@@google,1,1,hub,1
+image-classification,EfficientNet-B6,ImageNet (ILSVRC-2012-CLS),efficientnet-b6-classification@@google,1,1,hub,1
+image-classification,EfficientNet-B7,ImageNet (ILSVRC-2012-CLS),efficientnet-b7-classification@@google,1,1,hub,1
+image-classification,Inception ResNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-inception_resnet_v2-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,Inception V1,ImageNet (ILSVRC-2012-CLS),imagenet-inception_v1-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,Inception V2,ImageNet (ILSVRC-2012-CLS),imagenet-inception_v2-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,Inception V3,ImageNet (ILSVRC-2012-CLS),imagenet-inception_v3-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,Inception V3,ImageNet (ILSVRC-2012-CLS),tf2-preview-inception_v3-classification@@google,4,1,saved_model_2,4
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_025_128-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_025_128-quantops-classification@@google,2,1,hub,2
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_025_160-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_025_160-quantops-classification@@google,2,1,hub,2
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_025_192-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_025_192-quantops-classification@@google,2,1,hub,2
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_025_224-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_025_224-quantops-classification@@google,2,1,hub,2
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_050_128-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_050_128-quantops-classification@@google,2,1,hub,2
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_050_160-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_050_160-quantops-classification@@google,2,1,hub,2
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_050_192-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_050_192-quantops-classification@@google,2,1,hub,2
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_050_224-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_050_224-quantops-classification@@google,2,1,hub,2
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_075_128-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_075_128-quantops-classification@@google,2,1,hub,2
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_075_160-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_075_160-quantops-classification@@google,2,1,hub,2
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_075_192-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_075_192-quantops-classification@@google,2,1,hub,2
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_075_224-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_075_224-quantops-classification@@google,2,1,hub,2
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_100_128-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_100_128-quantops-classification@@google,2,1,hub,2
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_100_160-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_100_160-quantops-classification@@google,2,1,hub,2
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_100_192-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_100_192-quantops-classification@@google,2,1,hub,2
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_100_224-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_100_224-quantops-classification@@google,2,1,hub,2
+image-classification,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_035_128-classification@@google,4,2,"hub,saved_model_2",4
+image-classification,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_035_160-classification@@google,4,2,"hub,saved_model_2",4
+image-classification,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_035_192-classification@@google,4,2,"hub,saved_model_2",4
+image-classification,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_035_224-classification@@google,4,2,"hub,saved_model_2",4
+image-classification,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_035_96-classification@@google,4,2,"hub,saved_model_2",4
+image-classification,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_050_128-classification@@google,4,2,"hub,saved_model_2",4
+image-classification,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_050_160-classification@@google,4,2,"hub,saved_model_2",4
+image-classification,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_050_192-classification@@google,4,2,"hub,saved_model_2",4
+image-classification,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_050_224-classification@@google,4,2,"hub,saved_model_2",4
+image-classification,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_050_96-classification@@google,4,2,"hub,saved_model_2",4
+image-classification,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_075_128-classification@@google,4,2,"hub,saved_model_2",4
+image-classification,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_075_160-classification@@google,4,2,"hub,saved_model_2",4
+image-classification,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_075_192-classification@@google,4,2,"hub,saved_model_2",4
+image-classification,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_075_224-classification@@google,4,2,"hub,saved_model_2",4
+image-classification,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_075_96-classification@@google,4,2,"hub,saved_model_2",4
+image-classification,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_100_128-classification@@google,4,2,"hub,saved_model_2",4
+image-classification,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_100_160-classification@@google,4,2,"hub,saved_model_2",4
+image-classification,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_100_192-classification@@google,4,2,"hub,saved_model_2",4
+image-classification,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_100_224-classification@@google,4,2,"hub,saved_model_2",4
+image-classification,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_100_96-classification@@google,4,2,"hub,saved_model_2",4
+image-classification,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_130_224-classification@@google,4,2,"hub,saved_model_2",4
+image-classification,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_140_224-classification@@google,4,2,"hub,saved_model_2",4
+image-classification,MobileNet V2,ImageNet (ILSVRC-2012-CLS),tf2-preview-mobilenet_v2-classification@@google,4,1,saved_model_2,4
+image-classification,MobileNet V2,None,vision-classifier-fungi_mobile_V1@@svampeatlas,1,1,hub,1
+image-classification,NASNet-A (large),ImageNet (ILSVRC-2012-CLS),imagenet-nasnet_large-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,NASNet-A (mobile),ImageNet (ILSVRC-2012-CLS),imagenet-nasnet_mobile-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,None,None,planet-vision-classifier-planet_v2@@google,1,1,hub,1
+image-classification,PNASNet-5 (large),ImageNet (ILSVRC-2012-CLS),imagenet-pnasnet_large-classification@@google,4,2,"hub,saved_model_2",4
+image-classification,ResNet V1 101,ImageNet (ILSVRC-2012-CLS),imagenet-resnet_v1_101-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,ResNet V1 152,ImageNet (ILSVRC-2012-CLS),imagenet-resnet_v1_152-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,ResNet V1 50,ImageNet (ILSVRC-2012-CLS),imagenet-resnet_v1_50-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,ResNet V1 50,ImageNet (ILSVRC-2012-CLS),resnet_50-classification@@tensorflow,1,1,saved_model_2,1
+image-classification,ResNet V2 101,ImageNet (ILSVRC-2012-CLS),imagenet-resnet_v2_101-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,ResNet V2 152,ImageNet (ILSVRC-2012-CLS),imagenet-resnet_v2_152-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,ResNet V2 50,ImageNet (ILSVRC-2012-CLS),imagenet-resnet_v2_50-classification@@google,3,2,"hub,saved_model_2",3
+image-classification,VGG-style,CIFAR-10,ganeval-cifar10-convnet@@deepmind,1,1,hub,1
+image-classification,WRN-106,CIFAR10,unsupervised-adversarial-training-cifar10-wrn_106@@deepmind,1,1,hub,1
+image-classification-logits,Inception V4,iMet Collection 2019,vision-classifier-imet_attributes_V1@@metmuseum,1,1,hub,1
+image-classifier,None,None,tfgan-eval-mnist-logits@@tensorflow,1,1,hub,1
+image-classifier,ResNet-152,birds-or-bicycles,llr-pretrain-adv-latents@@deepmind,1,1,hub,1
+image-classifier,ResNet-152,birds-or-bicycles,llr-pretrain-adv-linear@@deepmind,1,1,hub,1
+image-classifier,ResNet-152,imagenet,local-linearity-imagenet@@deepmind,1,1,hub,1
+image-classifier,Wide-ResNet-40-8,cifar10,local-linearity-cifar10@@deepmind,1,1,hub,1
+image-feature-vector,AmoebaNet-A (N=18| F=448),ImageNet (ILSVRC-2012-CLS),imagenet-amoebanet_a_n18_f448-feature_vector@@google,1,1,hub,1
+image-feature-vector,BigGAN,ImageNet (ILSVRC-2012-CLS),cond-biggan@@vtab,1,1,hub,1
+image-feature-vector,BigGAN,ImageNet (ILSVRC-2012-CLS),uncond-biggan@@vtab,1,1,hub,1
+image-feature-vector,EfficientNet-B0,ImageNet (ILSVRC-2012-CLS),efficientnet-b0-feature-vector@@google,1,1,hub,1
+image-feature-vector,EfficientNet-B0,ImageNet (ILSVRC-2012-CLS),efficientnet-lite0-feature-vector@@tensorflow,1,1,hub,1
+image-feature-vector,EfficientNet-B1,ImageNet (ILSVRC-2012-CLS),efficientnet-b1-feature-vector@@google,1,1,hub,1
+image-feature-vector,EfficientNet-B1,ImageNet (ILSVRC-2012-CLS),efficientnet-lite1-feature-vector@@tensorflow,1,1,hub,1
+image-feature-vector,EfficientNet-B2,ImageNet (ILSVRC-2012-CLS),efficientnet-b2-feature-vector@@google,1,1,hub,1
+image-feature-vector,EfficientNet-B2,ImageNet (ILSVRC-2012-CLS),efficientnet-lite2-feature-vector@@tensorflow,1,1,hub,1
+image-feature-vector,EfficientNet-B3,ImageNet (ILSVRC-2012-CLS),efficientnet-b3-feature-vector@@google,1,1,hub,1
+image-feature-vector,EfficientNet-B3,ImageNet (ILSVRC-2012-CLS),efficientnet-lite3-feature-vector@@tensorflow,1,1,hub,1
+image-feature-vector,EfficientNet-B4,ImageNet (ILSVRC-2012-CLS),efficientnet-b4-feature-vector@@google,1,1,hub,1
+image-feature-vector,EfficientNet-B4,ImageNet (ILSVRC-2012-CLS),efficientnet-lite4-feature-vector@@tensorflow,1,1,hub,1
+image-feature-vector,EfficientNet-B5,ImageNet (ILSVRC-2012-CLS),efficientnet-b5-feature-vector@@google,1,1,hub,1
+image-feature-vector,EfficientNet-B6,ImageNet (ILSVRC-2012-CLS),efficientnet-b6-feature-vector@@google,1,1,hub,1
+image-feature-vector,EfficientNet-B7,ImageNet (ILSVRC-2012-CLS),efficientnet-b7-feature-vector@@google,1,1,hub,1
+image-feature-vector,Inception ResNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-inception_resnet_v2-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,Inception V1,ImageNet (ILSVRC-2012-CLS),imagenet-inception_v1-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,Inception V2,ImageNet (ILSVRC-2012-CLS),imagenet-inception_v2-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,Inception V3,ImageNet (ILSVRC-2012-CLS),imagenet-inception_v3-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,Inception V3,ImageNet (ILSVRC-2012-CLS),tf2-preview-inception_v3-feature_vector@@google,4,1,saved_model_2,4
+image-feature-vector,Inception V3,iNaturalist (iNat) 2017,inaturalist-inception_v3-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,Inception V4,None,vision-embedder-fungi_V2@@svampeatlas,1,1,hub,1
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_025_128-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_025_128-quantops-feature_vector@@google,2,1,hub,2
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_025_160-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_025_160-quantops-feature_vector@@google,2,1,hub,2
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_025_192-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_025_192-quantops-feature_vector@@google,2,1,hub,2
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_025_224-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_025_224-quantops-feature_vector@@google,2,1,hub,2
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_050_128-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_050_128-quantops-feature_vector@@google,2,1,hub,2
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_050_160-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_050_160-quantops-feature_vector@@google,2,1,hub,2
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_050_192-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_050_192-quantops-feature_vector@@google,2,1,hub,2
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_050_224-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_050_224-quantops-feature_vector@@google,2,1,hub,2
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_075_128-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_075_128-quantops-feature_vector@@google,2,1,hub,2
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_075_160-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_075_160-quantops-feature_vector@@google,2,1,hub,2
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_075_192-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_075_192-quantops-feature_vector@@google,2,1,hub,2
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_075_224-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_075_224-quantops-feature_vector@@google,2,1,hub,2
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_100_128-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_100_128-quantops-feature_vector@@google,2,1,hub,2
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_100_160-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_100_160-quantops-feature_vector@@google,2,1,hub,2
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_100_192-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_100_192-quantops-feature_vector@@google,2,1,hub,2
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_100_224-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,MobileNet V1,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v1_100_224-quantops-feature_vector@@google,2,1,hub,2
+image-feature-vector,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_035_128-feature_vector@@google,4,2,"hub,saved_model_2",4
+image-feature-vector,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_035_160-feature_vector@@google,4,2,"hub,saved_model_2",4
+image-feature-vector,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_035_192-feature_vector@@google,4,2,"hub,saved_model_2",4
+image-feature-vector,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_035_224-feature_vector@@google,4,2,"hub,saved_model_2",4
+image-feature-vector,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_035_96-feature_vector@@google,4,2,"hub,saved_model_2",4
+image-feature-vector,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_050_128-feature_vector@@google,4,2,"hub,saved_model_2",4
+image-feature-vector,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_050_160-feature_vector@@google,4,2,"hub,saved_model_2",4
+image-feature-vector,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_050_192-feature_vector@@google,4,2,"hub,saved_model_2",4
+image-feature-vector,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_050_224-feature_vector@@google,4,2,"hub,saved_model_2",4
+image-feature-vector,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_050_96-feature_vector@@google,4,2,"hub,saved_model_2",4
+image-feature-vector,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_075_128-feature_vector@@google,4,2,"hub,saved_model_2",4
+image-feature-vector,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_075_160-feature_vector@@google,4,2,"hub,saved_model_2",4
+image-feature-vector,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_075_192-feature_vector@@google,4,2,"hub,saved_model_2",4
+image-feature-vector,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_075_224-feature_vector@@google,4,2,"hub,saved_model_2",4
+image-feature-vector,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_075_96-feature_vector@@google,4,2,"hub,saved_model_2",4
+image-feature-vector,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_100_128-feature_vector@@google,4,2,"hub,saved_model_2",4
+image-feature-vector,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_100_160-feature_vector@@google,4,2,"hub,saved_model_2",4
+image-feature-vector,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_100_192-feature_vector@@google,4,2,"hub,saved_model_2",4
+image-feature-vector,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_100_224-feature_vector@@google,4,2,"hub,saved_model_2",4
+image-feature-vector,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_100_96-feature_vector@@google,4,2,"hub,saved_model_2",4
+image-feature-vector,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_130_224-feature_vector@@google,4,2,"hub,saved_model_2",4
+image-feature-vector,MobileNet V2,ImageNet (ILSVRC-2012-CLS),imagenet-mobilenet_v2_140_224-feature_vector@@google,4,2,"hub,saved_model_2",4
+image-feature-vector,MobileNet V2,ImageNet (ILSVRC-2012-CLS),tf2-preview-mobilenet_v2-feature_vector@@google,4,1,saved_model_2,4
+image-feature-vector,NASNet-A (large),ImageNet (ILSVRC-2012-CLS),imagenet-nasnet_large-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,NASNet-A (mobile),ImageNet (ILSVRC-2012-CLS),imagenet-nasnet_mobile-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,None,None,svampeatlas-vision-embedder-fungi_V1@@google,1,1,hub,1
+image-feature-vector,None,None,tfgan-eval-inception@@tensorflow,1,1,hub,1
+image-feature-vector,None,None,vision-embedder-inaturalist_V2@@inaturalist,1,1,hub,1
+image-feature-vector,PNASNet-5 (large),ImageNet (ILSVRC-2012-CLS),imagenet-pnasnet_large-feature_vector@@google,4,2,"hub,saved_model_2",4
+image-feature-vector,ResNet V1 101,ImageNet (ILSVRC-2012-CLS),imagenet-resnet_v1_101-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,ResNet V1 152,ImageNet (ILSVRC-2012-CLS),imagenet-resnet_v1_152-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,ResNet V1 50,ImageNet (ILSVRC-2012-CLS),imagenet-resnet_v1_50-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,ResNet V1 50,ImageNet (ILSVRC-2012-CLS),resnet_50-feature_vector@@tensorflow,1,1,saved_model_2,1
+image-feature-vector,ResNet V2 101,ImageNet (ILSVRC-2012-CLS),imagenet-resnet_v2_101-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,ResNet V2 152,ImageNet (ILSVRC-2012-CLS),imagenet-resnet_v2_152-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,ResNet V2 50,ImageNet (ILSVRC-2012-CLS),imagenet-resnet_v2_50-feature_vector@@google,3,2,"hub,saved_model_2",3
+image-feature-vector,ResNet V2 50,Multiple,remote_sensing-bigearthnet-resnet50@@google,1,1,hub,1
+image-feature-vector,ResNet V2 50,Multiple,remote_sensing-eurosat-ms-resnet50@@google,1,1,hub,1
+image-feature-vector,ResNet V2 50,Multiple,remote_sensing-eurosat-resnet50@@google,1,1,hub,1
+image-feature-vector,ResNet V2 50,Multiple,remote_sensing-resisc45-resnet50@@google,1,1,hub,1
+image-feature-vector,ResNet V2 50,Multiple,remote_sensing-so2sat-ms-resnet50@@google,1,1,hub,1
+image-feature-vector,ResNet V2 50,Multiple,remote_sensing-so2sat-resnet50@@google,1,1,hub,1
+image-feature-vector,ResNet V2 50,Multiple,remote_sensing-uc_merced-resnet50@@google,1,1,hub,1
+image-feature-vector,ResNet50-v2,ImageNet (ILSVRC-2012-CLS),exemplar@@vtab,1,1,hub,1
+image-feature-vector,ResNet50-v2,ImageNet (ILSVRC-2012-CLS),jigsaw@@vtab,1,1,hub,1
+image-feature-vector,ResNet50-v2,ImageNet (ILSVRC-2012-CLS),relative-patch-location@@vtab,1,1,hub,1
+image-feature-vector,ResNet50-v2,ImageNet (ILSVRC-2012-CLS),rotation@@vtab,1,1,hub,1
+image-feature-vector,ResNet50-v2,ImageNet (ILSVRC-2012-CLS),semi-exemplar-10@@vtab,1,1,hub,1
+image-feature-vector,ResNet50-v2,ImageNet (ILSVRC-2012-CLS),semi-rotation-10@@vtab,1,1,hub,1
+image-feature-vector,ResNet50-v2,ImageNet (ILSVRC-2012-CLS),sup-100@@vtab,1,1,hub,1
+image-feature-vector,ResNet50-v2,ImageNet (ILSVRC-2012-CLS),sup-exemplar-100@@vtab,1,1,hub,1
+image-feature-vector,ResNet50-v2,ImageNet (ILSVRC-2012-CLS),sup-rotation-100@@vtab,1,1,hub,1
+image-feature-vector,VAE,ImageNet (ILSVRC-2012-CLS),vae@@vtab,1,1,hub,1
+image-feature-vector,WAE,ImageNet (ILSVRC-2012-CLS),wae-gan@@vtab,1,1,hub,1
+image-feature-vector,WAE,ImageNet (ILSVRC-2012-CLS),wae-mmd@@vtab,1,1,hub,1
+image-feature-vector,WAE,ImageNet (ILSVRC-2012-CLS),wae-ukl@@vtab,1,1,hub,1
+image-generator,BiGAN,ImageNet (ILSVRC-2012-CLS),compare_gan-s3gan_10_128x128@@google,1,1,hub,1
+image-generator,BiGAN,ImageNet (ILSVRC-2012-CLS),compare_gan-s3gan_10_256x256@@google,1,1,hub,1
+image-generator,BiGAN,ImageNet (ILSVRC-2012-CLS),compare_gan-s3gan_20_128x128@@google,1,1,hub,1
+image-generator,BiGAN,ImageNet (ILSVRC-2012-CLS),compare_gan-s3gan_2_5_128x128@@google,1,1,hub,1
+image-generator,BiGAN,ImageNet (ILSVRC-2012-CLS),compare_gan-s3gan_5_128x128@@google,1,1,hub,1
+image-generator,BigBiGAN,ImageNet (ILSVRC-2012-CLS),bigbigan-resnet50@@deepmind,1,1,hub,1
+image-generator,BigBiGAN,ImageNet (ILSVRC-2012-CLS),bigbigan-revnet50x4@@deepmind,1,1,hub,1
+image-generator,BigGAN,ImageNet (ILSVRC-2012-CLS),biggan-128@@deepmind,2,1,hub,2
+image-generator,BigGAN,ImageNet (ILSVRC-2012-CLS),biggan-256@@deepmind,2,1,hub,2
+image-generator,BigGAN,ImageNet (ILSVRC-2012-CLS),biggan-512@@deepmind,2,1,hub,2
+image-generator,BigGAN,ImageNet (ILSVRC-2012-CLS),compare_gan-ssgan_128x128@@google,1,1,hub,1
+image-generator,BigGAN-deep,ImageNet (ILSVRC-2012-CLS),biggan-deep-128@@deepmind,1,1,hub,1
+image-generator,BigGAN-deep,ImageNet (ILSVRC-2012-CLS),biggan-deep-256@@deepmind,1,1,hub,1
+image-generator,BigGAN-deep,ImageNet (ILSVRC-2012-CLS),biggan-deep-512@@deepmind,1,1,hub,1
+image-generator,Progressive GAN,CelebA,progan-128@@google,1,1,hub,1
+image-generator,ResNet CIFAR,CIFAR-10,compare_gan-model_11_cifar10_resnet_cifar@@google,1,1,hub,1
+image-generator,ResNet CIFAR,CIFAR-10,compare_gan-model_12_cifar10_resnet_cifar@@google,1,1,hub,1
+image-generator,ResNet CIFAR,CIFAR-10,compare_gan-model_13_cifar10_resnet_cifar@@google,1,1,hub,1
+image-generator,ResNet CIFAR,CIFAR-10,compare_gan-model_14_cifar10_resnet_cifar@@google,1,1,hub,1
+image-generator,ResNet CIFAR,CIFAR-10,compare_gan-model_15_cifar10_resnet_cifar@@google,1,1,hub,1
+image-generator,ResNet19,CelebA HQ,compare_gan-model_1_celebahq128_resnet19@@google,1,1,hub,1
+image-generator,ResNet19,CelebA HQ,compare_gan-model_2_celebahq128_resnet19@@google,1,1,hub,1
+image-generator,ResNet19,CelebA HQ,compare_gan-model_5_celebahq128_resnet19@@google,1,1,hub,1
+image-generator,ResNet19,CelebA HQ,compare_gan-model_6_celebahq128_resnet19@@google,1,1,hub,1
+image-generator,ResNet19,CelebA HQ,compare_gan-model_9_celebahq128_resnet19@@google,1,1,hub,1
+image-generator,ResNet19,LSUN Bedroom,compare_gan-model_10_lsun_bedroom_resnet19@@google,1,1,hub,1
+image-generator,ResNet19,LSUN Bedroom,compare_gan-model_3_lsun_bedroom_resnet19@@google,1,1,hub,1
+image-generator,ResNet19,LSUN Bedroom,compare_gan-model_4_lsun_bedroom_resnet19@@google,1,1,hub,1
+image-generator,ResNet19,LSUN Bedroom,compare_gan-model_7_lsun_bedroom_resnet19@@google,1,1,hub,1
+image-generator,ResNet19,LSUN Bedroom,compare_gan-model_8_lsun_bedroom_resnet19@@google,1,1,hub,1
+image-object-detection,Faster R-CNN,OpenImagesV4,faster_rcnn-openimages_v4-inception_resnet_v2@@google,1,1,hub,1
+image-object-detection,MobileNet V2,None,object_detection-mobile_object_localizer_v1@@google,1,1,hub,1
+image-object-detection,None,None,vision-detector-megadetector_V3@@microsoft-ai-for-earth,1,1,hub,1
+image-object-detection,SSD,OpenImagesV4,openimages_v4-ssd-mobilenet_v2@@google,1,1,hub,1
+image-others,DELF,None,delf@@google,1,1,hub,1
+image-rnn-agent,Other,CelebA HQ,spiral-default-fluid-gansn-celebahq64-gen-19steps@@deepmind,1,1,hub,1
+image-rnn-agent,Other,CelebA HQ,spiral-default-wgangp-celebahq64-gen-19steps-agent1@@deepmind,1,1,hub,1
+image-rnn-agent,Other,CelebA HQ,spiral-default-wgangp-celebahq64-gen-19steps-agent2@@deepmind,1,1,hub,1
+image-rnn-agent,Other,CelebA HQ,spiral-default-wgangp-celebahq64-gen-19steps-agent3@@deepmind,1,1,hub,1
+image-rnn-agent,Other,CelebA HQ,spiral-default-wgangp-celebahq64-gen-19steps-agent4@@deepmind,1,1,hub,1
+image-rnn-agent,Other,CelebA HQ,spiral-default-wgangp-celebahq64-gen-19steps-agent5@@deepmind,1,1,hub,1
+image-rnn-agent,Other,CelebA HQ,spiral-default-wgangp-celebahq64-gen-19steps-agent6@@deepmind,1,1,hub,1
+image-rnn-agent,Other,CelebA HQ,spiral-default-wgangp-celebahq64-gen-19steps-agent7@@deepmind,1,1,hub,1
+image-rnn-agent,Other,CelebA HQ,spiral-default-wgangp-celebahq64-gen-19steps-agent8@@deepmind,1,1,hub,1
+image-rnn-agent,Other,CelebA HQ,spiral-default-wgangp-celebahq64-gen-19steps-agent9@@deepmind,1,1,hub,1
+image-segmentation,Unet,DAGM2007,unet-industrial-class_10@@nvidia,1,1,hub,1
+image-segmentation,Unet,DAGM2007,unet-industrial-class_1@@nvidia,1,1,hub,1
+image-segmentation,Unet,DAGM2007,unet-industrial-class_2@@nvidia,1,1,hub,1
+image-segmentation,Unet,DAGM2007,unet-industrial-class_3@@nvidia,1,1,hub,1
+image-segmentation,Unet,DAGM2007,unet-industrial-class_4@@nvidia,1,1,hub,1
+image-segmentation,Unet,DAGM2007,unet-industrial-class_5@@nvidia,1,1,hub,1
+image-segmentation,Unet,DAGM2007,unet-industrial-class_6@@nvidia,1,1,hub,1
+image-segmentation,Unet,DAGM2007,unet-industrial-class_7@@nvidia,1,1,hub,1
+image-segmentation,Unet,DAGM2007,unet-industrial-class_8@@nvidia,1,1,hub,1
+image-segmentation,Unet,DAGM2007,unet-industrial-class_9@@nvidia,1,1,hub,1
+image-style-transfer,Other,Multiple,magenta-arbitrary-image-stylization-v1-256@@google,2,1,hub,2
+image-super-resolution,GAN,DIV2K,esrgan-tf2@@captain-pool,1,1,saved_model_2,1
+text-embedding,CNN,None,universal-sentence-encoder-multilingual@@google,3,2,"hub,saved_model_2",3
+text-embedding,DAN,None,universal-sentence-encoder@@google,4,2,"hub,saved_model_2",4
+text-embedding,ELMo,1 Billion Word Benchmark,elmo@@google,3,1,hub,3
+text-embedding,NNLM,Google News,nnlm-de-dim128-with-normalization@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-de-dim128@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-de-dim50-with-normalization@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-de-dim50@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-en-dim128-with-normalization@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-en-dim128@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-en-dim50-with-normalization@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-en-dim50@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-es-dim128-with-normalization@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-es-dim128@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-es-dim50-with-normalization@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-es-dim50@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-id-dim128-with-normalization@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-id-dim128@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-id-dim50-with-normalization@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-id-dim50@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-ja-dim128-with-normalization@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-ja-dim128@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-ja-dim50-with-normalization@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-ja-dim50@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-ko-dim128-with-normalization@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-ko-dim128@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-ko-dim50-with-normalization@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-ko-dim50@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-zh-dim128-with-normalization@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-zh-dim128@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-zh-dim50-with-normalization@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,nnlm-zh-dim50@@google,2,2,"hub,saved_model_2",2
+text-embedding,NNLM,Google News,tf2-preview-nnlm-de-dim128-with-normalization@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-de-dim128@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-de-dim50-with-normalization@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-de-dim50@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-en-dim128-with-normalization@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-en-dim128@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-en-dim50-with-normalization@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-en-dim50@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-es-dim128-with-normalization@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-es-dim128@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-es-dim50-with-normalization@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-es-dim50@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-id-dim128-with-normalization@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-id-dim128@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-id-dim50-with-normalization@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-id-dim50@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-ja-dim128-with-normalization@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-ja-dim128@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-ja-dim50-with-normalization@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-ja-dim50@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-ko-dim128-with-normalization@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-ko-dim128@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-ko-dim50-with-normalization@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-ko-dim50@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-zh-dim128-with-normalization@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-zh-dim128@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-zh-dim50-with-normalization@@google,1,1,saved_model_2,1
+text-embedding,NNLM,Google News,tf2-preview-nnlm-zh-dim50@@google,1,1,saved_model_2,1
+text-embedding,NNLM,None,random-nnlm-en-dim128@@google,1,1,hub,1
+text-embedding,NNLM,None,random-nnlm-en-dim50@@google,1,1,hub,1
+text-embedding,Swivel,Google News,tf2-preview-gnews-swivel-20dim-with-oov@@google,1,1,saved_model_2,1
+text-embedding,Swivel,Google News,tf2-preview-gnews-swivel-20dim@@google,1,1,saved_model_2,1
+text-embedding,Transformer,Multilingual Wikipedia,bert_multi_cased_L-12_H-768_A-12@@tensorflow,1,1,saved_model_2,1
+text-embedding,Transformer,None,universal-sentence-encoder-large@@google,5,2,"hub,saved_model_2",5
+text-embedding,Transformer,None,universal-sentence-encoder-lite@@google,2,1,hub,2
+text-embedding,Transformer,None,universal-sentence-encoder-multilingual-large@@google,3,2,"hub,saved_model_2",3
+text-embedding,Transformer,None,universal-sentence-encoder-multilingual-qa@@google,3,2,"hub,saved_model_2",3
+text-embedding,Transformer,None,universal-sentence-encoder-qa@@google,3,2,"hub,saved_model_2",3
+text-embedding,Transformer,None,universal-sentence-encoder-xling-en-de@@google,1,1,hub,1
+text-embedding,Transformer,None,universal-sentence-encoder-xling-en-es@@google,1,1,hub,1
+text-embedding,Transformer,None,universal-sentence-encoder-xling-en-fr@@google,1,1,hub,1
+text-embedding,Transformer,None,universal-sentence-encoder-xling-many@@google,1,1,hub,1
+text-embedding,Transformer,SQuAD,albert_lite_base@@tensorflow,1,1,saved_model_2,1
+text-embedding,Transformer,Wikipedia,bert_zh_L-12_H-768_A-12@@tensorflow,1,1,saved_model_2,1
+text-embedding,Transformer,Wikipedia and BooksCorpus,albert_en_base@@tensorflow,1,1,saved_model_2,1
+text-embedding,Transformer,Wikipedia and BooksCorpus,albert_en_large@@tensorflow,1,1,saved_model_2,1
+text-embedding,Transformer,Wikipedia and BooksCorpus,albert_en_xlarge@@tensorflow,1,1,saved_model_2,1
+text-embedding,Transformer,Wikipedia and BooksCorpus,albert_en_xxlarge@@tensorflow,1,1,saved_model_2,1
+text-embedding,Transformer,Wikipedia and BooksCorpus,bert_cased_L-12_H-768_A-12@@google,1,1,hub,1
+text-embedding,Transformer,Wikipedia and BooksCorpus,bert_cased_L-24_H-1024_A-16@@google,1,1,hub,1
+text-embedding,Transformer,Wikipedia and BooksCorpus,bert_chinese_L-12_H-768_A-12@@google,1,1,hub,1
+text-embedding,Transformer,Wikipedia and BooksCorpus,bert_en_cased_L-12_H-768_A-12@@tensorflow,1,1,saved_model_2,1
+text-embedding,Transformer,Wikipedia and BooksCorpus,bert_en_cased_L-24_H-1024_A-16@@tensorflow,1,1,saved_model_2,1
+text-embedding,Transformer,Wikipedia and BooksCorpus,bert_en_uncased_L-12_H-768_A-12@@tensorflow,1,1,saved_model_2,1
+text-embedding,Transformer,Wikipedia and BooksCorpus,bert_en_uncased_L-24_H-1024_A-16@@tensorflow,1,1,saved_model_2,1
+text-embedding,Transformer,Wikipedia and BooksCorpus,bert_en_wwm_cased_L-24_H-1024_A-16@@tensorflow,1,1,saved_model_2,1
+text-embedding,Transformer,Wikipedia and BooksCorpus,bert_en_wwm_uncased_L-24_H-1024_A-16@@tensorflow,1,1,saved_model_2,1
+text-embedding,Transformer,Wikipedia and BooksCorpus,bert_multi_cased_L-12_H-768_A-12@@google,1,1,hub,1
+text-embedding,Transformer,Wikipedia and BooksCorpus,bert_uncased_L-12_H-768_A-12@@google,1,1,hub,1
+text-embedding,Transformer,Wikipedia and BooksCorpus,bert_uncased_L-24_H-1024_A-16@@google,1,1,hub,1
+text-embedding,Transformer,Wikipedia| BooksCorpus| Stories| CommonCrawl| Giga5| Clue Web,albert_base@@google,3,1,hub,3
+text-embedding,Transformer,Wikipedia| BooksCorpus| Stories| CommonCrawl| Giga5| Clue Web,albert_large@@google,3,1,hub,3
+text-embedding,Transformer,Wikipedia| BooksCorpus| Stories| CommonCrawl| Giga5| Clue Web,albert_xlarge@@google,3,1,hub,3
+text-embedding,Transformer,Wikipedia| BooksCorpus| Stories| CommonCrawl| Giga5| Clue Web,albert_xxlarge@@google,3,1,hub,3
+text-embedding,word2vec skip-gram,Wikipedia,Wiki-words-250-with-normalization@@google,2,2,"hub,saved_model_2",2
+text-embedding,word2vec skip-gram,Wikipedia,Wiki-words-250@@google,2,2,"hub,saved_model_2",2
+text-embedding,word2vec skip-gram,Wikipedia,Wiki-words-500-with-normalization@@google,2,2,"hub,saved_model_2",2
+text-embedding,word2vec skip-gram,Wikipedia,Wiki-words-500@@google,2,2,"hub,saved_model_2",2
+text-question-answering,Transformer,Natural Questions,nq@@nascarr,1,1,saved_model_2,1
+text-question-answering,Transformer,Natural Questions,tf2nq@@prvi,1,1,saved_model_2,1
+text-question-answering,transformer,Natural Questions,bert-uncased-tf2-qa@@see--,1,1,saved_model_2,1
+video-classification,I3D,Kinetics-400,i3d-kinetics-400@@deepmind,1,1,hub,1
+video-classification,I3D,Kinetics-600,i3d-kinetics-600@@deepmind,1,1,hub,1
+video-generation,VideoFlow,BAIR Robot Pushing Dataset,videoflow-encoder@@google,1,1,hub,1
+video-generation,VideoFlow,BAIR Robot Pushing Dataset,videoflow-evaluator@@google,1,1,hub,1
+video-generation,VideoFlow,BAIR Robot Pushing Dataset,videoflow-generator@@google,1,1,hub,1
+video-generator,Other,BAIR,tweening_conv3d_bair@@google,1,1,hub,1
+video-generator,Other,KTH,tweening_conv3d_kth@@google,1,1,hub,1
+video-text,I3D,None,mil-nce-i3d@@deepmind,1,1,hub,1
+video-text,S3D,None,mil-nce-s3d@@deepmind,1,1,hub,1

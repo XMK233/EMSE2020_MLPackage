@@ -1,0 +1,30 @@
+There are `1` versions in total.
+
+# _1.md_
+## Overview
+
+Image generator based on tensorflow reimplementation of Progressive GANs[1].
+
+Maps from a 512-dimensional latent space to images. During training, the latent
+space vectors were sampled from a normal distribution.
+
+Module takes `<Tensor(tf.float32, shape=[?, 512])>`, representing a batch of 
+latent vectors as input, and outputs 
+`<Tensor(tf.float32, shape=[?, 128, 128, 3])>` representing a batch of RGB 
+images.
+
+#### Example use
+```
+# Generate 20 random samples.
+generate = hub.Module("https://tfhub.dev/google/progan-128/1")
+images = generate(tf.random_normal([20, 512]))
+```
+
+#### Training
+The original model has been trained on a GPU for 636,801 steps with batch size 
+16.
+
+#### References
+[1] Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen.
+[Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196). 
+arXiv preprint arXiv:1710.10196, 2017.

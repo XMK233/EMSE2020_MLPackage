@@ -1,0 +1,44 @@
+Task Type,Algorithm,Dataset,Family,Num
+AE,TRILL,AudioSet,AE+TRILL+AudioSet,2
+IC,EfficientNet,ImageNet (ILSVRC-2012-CLS),IC+EfficientNet+ImageNet (ILSVRC-2012-CLS),13
+IC,InceptionV3,ImageNet (ILSVRC-2012-CLS),IC+InceptionV3+ImageNet (ILSVRC-2012-CLS),2
+IC,MobileNetV1,ImageNet (ILSVRC-2012-CLS),IC+MobileNetV1+ImageNet (ILSVRC-2012-CLS),32
+IC,MobileNetV2,ImageNet (ILSVRC-2012-CLS),IC+MobileNetV2+ImageNet (ILSVRC-2012-CLS),23
+IC,NASNet,ImageNet (ILSVRC-2012-CLS),IC+NASNet+ImageNet (ILSVRC-2012-CLS),2
+IC,ResNetV1,ImageNet (ILSVRC-2012-CLS),IC+ResNetV1+ImageNet (ILSVRC-2012-CLS),4
+IC,ResNetV2,ImageNet (ILSVRC-2012-CLS),IC+ResNetV2+ImageNet (ILSVRC-2012-CLS),3
+IV,EfficientNet,ImageNet (ILSVRC-2012-CLS),IFV+EfficientNet+ImageNet (ILSVRC-2012-CLS),13
+IV,examplar,ImageNet (ILSVRC-2012-CLS),IFV+examplar+ImageNet (ILSVRC-2012-CLS),2
+IV,InceptionV3,ImageNet (ILSVRC-2012-CLS),IFV+InceptionV3+ImageNet (ILSVRC-2012-CLS),2
+IV,MobileNetV1,ImageNet (ILSVRC-2012-CLS),IFV+MobileNetV1+ImageNet (ILSVRC-2012-CLS),32
+IV,MobileNetV2,ImageNet (ILSVRC-2012-CLS),IFV+MobileNetV2+ImageNet (ILSVRC-2012-CLS),23
+IV,NASNet,ImageNet (ILSVRC-2012-CLS),IFV+NASNet+ImageNet (ILSVRC-2012-CLS),2
+IV,RemoteSensing,EuroSat,IFV+RemoteSensing+EuroSat,2
+IV,RemoteSensing,So2Sat,IFV+RemoteSensing+So2Sat,2
+IV,ResNetV1,ImageNet (ILSVRC-2012-CLS),IFV+ResNetV1+ImageNet (ILSVRC-2012-CLS),4
+IV,ResNetV2,ImageNet (ILSVRC-2012-CLS),IFV+ResNetV2+ImageNet (ILSVRC-2012-CLS),3
+IV,Rotation,ImageNet (ILSVRC-2012-CLS),IFV+Rotation+ImageNet (ILSVRC-2012-CLS),2
+IV,WAE,ImageNet (ILSVRC-2012-CLS),IFV+WAE+ImageNet (ILSVRC-2012-CLS),2
+IG,BigBiGAN,ImageNet (ILSVRC-2012-CLS),IG+BigBiGAN+ImageNet (ILSVRC-2012-CLS),5
+IG,BigGAN,ImageNet (ILSVRC-2012-CLS),IG+BigGAN+ImageNet (ILSVRC-2012-CLS),3
+IG,Compare-GAN Model,CIFAR-10,IG+Compare-GAN Model+CIFAR-10,5
+IG,Compare-GAN Model,CelebA HQ,IG+Compare-GAN Model+CelebA HQ,5
+IG,Compare-GAN Model,LSUN Bedroon,IG+Compare-GAN Model+LSUN Bedroon,5
+IG,Compare-GAN S3GAN,ImageNet (ILSVRC-2012-CLS),IG+Compare-GAN S3GAN+ImageNet (ILSVRC-2012-CLS),5
+IG,SPIRAL,CelebA HQ,IG+SPIRAL+CelebA HQ,10
+IS,Unet,DAGM2007,IS+Unet+DAGM2007,10
+TE,ALBERT,"W, B, S, C, G, C","TE+ALBERT+W, B, S, C, G, C",9
+TE,BERT,"W, B","TE+BERT+W, B",12
+TE,NNLM,GN de,TE+NNLM+GN de,8
+TE,NNLM,GN en,TE+NNLM+GN en,10
+TE,NNLM,GN es,TE+NNLM+GN es,8
+TE,NNLM,GN id,TE+NNLM+GN id,8
+TE,NNLM,GN ja,TE+NNLM+GN ja,8
+TE,NNLM,GN ko,TE+NNLM+GN ko,8
+TE,NNLM,GN zh,TE+NNLM+GN zh,8
+TE,Swivel,GN,TE+Swivel+GN,2
+TE,USE,??,TE+USE+??,3
+TE,USE-M,16 Languages,TE+USE-M+16 Languages,2
+TE,Skipgram W2V,W,TE+Skipgram W2V+W,4
+TQA,BERT-nq,Natural Questions,TQA+BERT-nq+Natural Questions,3
+VU,MIL-NCE,H,VT+MIL-NCE+H,2

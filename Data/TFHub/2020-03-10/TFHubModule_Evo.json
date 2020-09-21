@@ -1,0 +1,1886 @@
+[
+    {
+        "cur_version": 1,
+        "name": "deeplab-cityscapes"
+    },
+    {
+        "cur_version": 3,
+        "name": "universal-sentence-encoder-multilingual-qa"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_075_192-quantops-feature_vector"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_050_160-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "spiral-default-wgangp-celebahq64-gen-19steps-agent2"
+    },
+    {
+        "cur_version": 3,
+        "name": "elmo"
+    },
+    {
+        "cur_version": 1,
+        "name": "speech_embedding"
+    },
+    {
+        "cur_version": 1,
+        "name": "biggan-deep-128"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_050_192-quantops-feature_vector"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-inception_resnet_v2-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-b1-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "mnasnet_1.0_192"
+    },
+    {
+        "cur_version": 1,
+        "name": "compare_gan-s3gan_5_128x128"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-nasnet_large-classification"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_050_96-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "i3d-kinetics-600"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_075_96-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "compare_gan-model_9_celebahq128_resnet19"
+    },
+    {
+        "cur_version": 1,
+        "name": "posenet-mobilenet-quantized-1-075"
+    },
+    {
+        "cur_version": 1,
+        "name": "remote_sensing-eurosat-resnet50"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-es-dim50-with-normalization"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_100_128-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "bert_en_uncased_L-12_H-768_A-12"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_035_160-classification"
+    },
+    {
+        "cur_version": 2,
+        "name": "biggan-512"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_100_192-feature_vector"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_025_192-quantops-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "mnasnet_1.3_224"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-de-dim50-with-normalization"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_075_160-quantops-feature_vector"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_140_224-feature_vector"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_025_224-feature_vector"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_100_224-quantops-classification"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_100_224-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "compare_gan-model_3_lsun_bedroom_resnet19"
+    },
+    {
+        "cur_version": 4,
+        "name": "universal-sentence-encoder"
+    },
+    {
+        "cur_version": 1,
+        "name": "bigbigan-revnet50x4"
+    },
+    {
+        "cur_version": 1,
+        "name": "bert_cased_L-12_H-768_A-12"
+    },
+    {
+        "cur_version": 1,
+        "name": "posenet-mobilenet-float-075"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-id-dim50-with-normalization"
+    },
+    {
+        "cur_version": 1,
+        "name": "wae-ukl"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_0.75_160_quantized"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-inception_v2-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "unet-industrial-class_7"
+    },
+    {
+        "cur_version": 4,
+        "name": "tf2-preview-inception_v3-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "compare_gan-model_4_lsun_bedroom_resnet19"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_075_160-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "sup-100"
+    },
+    {
+        "cur_version": 1,
+        "name": "compare_gan-s3gan_2_5_128x128"
+    },
+    {
+        "cur_version": 1,
+        "name": "spiral-default-wgangp-celebahq64-gen-19steps-agent5"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-lite3-classification"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_050_128-feature_vector"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_050_192-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "inception_resnet_v2"
+    },
+    {
+        "cur_version": 1,
+        "name": "semi-exemplar-10"
+    },
+    {
+        "cur_version": 3,
+        "name": "albert_base"
+    },
+    {
+        "cur_version": 1,
+        "name": "vision-detector-megadetector_V3"
+    },
+    {
+        "cur_version": 1,
+        "name": "bert_multi_cased_L-12_H-768_A-12"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_100_192-quantops-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "spiral-default-fluid-gansn-celebahq64-gen-19steps"
+    },
+    {
+        "cur_version": 2,
+        "name": "biggan-128"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-resnet_v1_101-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_0.50_224"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-zh-dim50-with-normalization"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_0.25_160_quantized"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_035_128-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "universal-sentence-encoder-xling-en-es"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_100_160-classification"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_130_224-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-en-dim128"
+    },
+    {
+        "cur_version": 3,
+        "name": "universal-sentence-encoder-multilingual-large"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_075_128-quantops-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "remote_sensing-uc_merced-resnet50"
+    },
+    {
+        "cur_version": 1,
+        "name": "resnet_50-feature_vector"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-resnet_v1_152-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-b7-feature-vector"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_100_192-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "bert_cased_L-24_H-1024_A-16"
+    },
+    {
+        "cur_version": 1,
+        "name": "posenet-resnet50-float"
+    },
+    {
+        "cur_version": 1,
+        "name": "posenet-resnet50-quantized-2"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilebert"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-lite4-feature-vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "inception_v4"
+    },
+    {
+        "cur_version": 1,
+        "name": "posenet-mobilenet-quantized-2-075"
+    },
+    {
+        "cur_version": 1,
+        "name": "vision-classifier-imet_attributes_V1"
+    },
+    {
+        "cur_version": 1,
+        "name": "compare_gan-model_11_cifar10_resnet_cifar"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_0.25_192"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v2_1.0_224_quantized"
+    },
+    {
+        "cur_version": 1,
+        "name": "albert_en_xxlarge"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_0.25_128"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-b1-feature-vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "compare_gan-model_8_lsun_bedroom_resnet19"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-en-dim50"
+    },
+    {
+        "cur_version": 1,
+        "name": "uncond-biggan"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_035_128-classification"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_075_192-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_0.75_224_quantized"
+    },
+    {
+        "cur_version": 1,
+        "name": "handskeleton"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-inception_v3-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_0.50_192"
+    },
+    {
+        "cur_version": 1,
+        "name": "ganeval-cifar10-convnet"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_050_224-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-gnews-swivel-20dim"
+    },
+    {
+        "cur_version": 1,
+        "name": "cond-biggan"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_035_192-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-lite4-classification"
+    },
+    {
+        "cur_version": 3,
+        "name": "universal-sentence-encoder-multilingual"
+    },
+    {
+        "cur_version": 1,
+        "name": "spice"
+    },
+    {
+        "cur_version": 1,
+        "name": "compare_gan-ssgan_128x128"
+    },
+    {
+        "cur_version": 1,
+        "name": "remote_sensing-eurosat-ms-resnet50"
+    },
+    {
+        "cur_version": 1,
+        "name": "videoflow-generator"
+    },
+    {
+        "cur_version": 1,
+        "name": "compare_gan-model_12_cifar10_resnet_cifar"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_100_96-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-gnews-swivel-20dim-with-oov"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_050_128-quantops-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-ko-dim50"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_1.0_160_quantized"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_050_160-feature_vector"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-resnet_v1_50-feature_vector"
+    },
+    {
+        "cur_version": 3,
+        "name": "albert_large"
+    },
+    {
+        "cur_version": 1,
+        "name": "bert_chinese_L-12_H-768_A-12"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-de-dim50"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_075_224-feature_vector"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-resnet_v1_101-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "densenet"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_050_160-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "compare_gan-model_14_cifar10_resnet_cifar"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-lite2-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "handdetector"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_050_160-quantops-feature_vector"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_100_128-classification"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_075_160-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_0.75_224"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-resnet_v2_152-classification"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-es-dim128"
+    },
+    {
+        "cur_version": 2,
+        "name": "universal-sentence-encoder-lite"
+    },
+    {
+        "cur_version": 1,
+        "name": "unet-industrial-class_9"
+    },
+    {
+        "cur_version": 1,
+        "name": "compare_gan-model_7_lsun_bedroom_resnet19"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_075_128-quantops-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-id-dim50-with-normalization"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-pnasnet_large-feature_vector"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-id-dim128"
+    },
+    {
+        "cur_version": 1,
+        "name": "compare_gan-model_13_cifar10_resnet_cifar"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-ja-dim50-with-normalization"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-ja-dim128-with-normalization"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_025_128-quantops-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "resnet_v2_101"
+    },
+    {
+        "cur_version": 1,
+        "name": "unet-industrial-class_10"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_075_224-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "faster_rcnn-openimages_v4-inception_resnet_v2"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-inception_v3-feature_vector"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-resnet_v2_50-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "spiral-default-wgangp-celebahq64-gen-19steps-agent4"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-ko-dim128"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_035_224-classification"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_025_160-quantops-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "exemplar"
+    },
+    {
+        "cur_version": 1,
+        "name": "tweening_conv3d_bair"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-de-dim128-with-normalization"
+    },
+    {
+        "cur_version": 1,
+        "name": "bert-uncased-tf2-qa"
+    },
+    {
+        "cur_version": 1,
+        "name": "relative-patch-location"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-es-dim50"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_075_128-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "progan-128"
+    },
+    {
+        "cur_version": 1,
+        "name": "mnasnet_1.0_128"
+    },
+    {
+        "cur_version": 3,
+        "name": "albert_xlarge"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_075_192-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "albert_en_xlarge"
+    },
+    {
+        "cur_version": 1,
+        "name": "compare_gan-s3gan_10_256x256"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-lite1-feature-vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-es-dim128"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_050_224-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "compare_gan-model_6_celebahq128_resnet19"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_100_128-quantops-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "bigbigan-resnet50"
+    },
+    {
+        "cur_version": 1,
+        "name": "nonsemantic-speech-benchmark-trill"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_075_160-feature_vector"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-ko-dim128-with-normalization"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_050_128-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-b3-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "random-nnlm-en-dim50"
+    },
+    {
+        "cur_version": 1,
+        "name": "albert_en_base"
+    },
+    {
+        "cur_version": 1,
+        "name": "posenet-mobilenet-float-100"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-de-dim50"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_035_96-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "videoflow-encoder"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-id-dim128-with-normalization"
+    },
+    {
+        "cur_version": 1,
+        "name": "svampeatlas-vision-embedder-fungi_V1"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_035_160-feature_vector"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_050_224-quantops-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "nq"
+    },
+    {
+        "cur_version": 1,
+        "name": "local-linearity-imagenet"
+    },
+    {
+        "cur_version": 1,
+        "name": "mnasnet_0.50_224"
+    },
+    {
+        "cur_version": 1,
+        "name": "image_augmentation-crop_rotate_color"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-de-dim128"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-zh-dim128-with-normalization"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_100_160-quantops-classification"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-ja-dim128"
+    },
+    {
+        "cur_version": 1,
+        "name": "blazeface"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-en-dim50-with-normalization"
+    },
+    {
+        "cur_version": 1,
+        "name": "compare_gan-model_15_cifar10_resnet_cifar"
+    },
+    {
+        "cur_version": 1,
+        "name": "bodypix_100"
+    },
+    {
+        "cur_version": 1,
+        "name": "spiral-default-wgangp-celebahq64-gen-19steps-agent8"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_025_160-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "unet-industrial-class_1"
+    },
+    {
+        "cur_version": 1,
+        "name": "remote_sensing-bigearthnet-resnet50"
+    },
+    {
+        "cur_version": 2,
+        "name": "magenta-arbitrary-image-stylization-v1-256"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_1.0_128"
+    },
+    {
+        "cur_version": 1,
+        "name": "albert_en_large"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-b7-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-b5-feature-vector"
+    },
+    {
+        "cur_version": 4,
+        "name": "inaturalist-inception_v3-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2nq"
+    },
+    {
+        "cur_version": 1,
+        "name": "image_augmentation-nas_svhn"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-inception_resnet_v2-feature_vector"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_100_192-quantops-classification"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_075_160-quantops-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "image_augmentation-crop_color"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-b3-feature-vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "unet-industrial-class_6"
+    },
+    {
+        "cur_version": 3,
+        "name": "albert_xxlarge"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-resnet_v2_101-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "compare_gan-model_10_lsun_bedroom_resnet19"
+    },
+    {
+        "cur_version": 1,
+        "name": "ssdlite_mobilenet_v2"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-lite1-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-b4-feature-vector"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-ja-dim50-with-normalization"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-nasnet_mobile-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "imagenet-amoebanet_a_n18_f448-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-id-dim50"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-ko-dim50-with-normalization"
+    },
+    {
+        "cur_version": 1,
+        "name": "remote_sensing-so2sat-resnet50"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-en-dim50"
+    },
+    {
+        "cur_version": 1,
+        "name": "vision-classifier-fungi_mobile_V1"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_100_224-quantops-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "bert_en_cased_L-12_H-768_A-12"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_0.75_128_quantized"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_025_224-quantops-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "inception_v3"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_050_128-quantops-feature_vector"
+    },
+    {
+        "cur_version": 2,
+        "name": "Wiki-words-500"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_075_192-quantops-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-de-dim128"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_025_160-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "universal-sentence-encoder-lite"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-b4-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-ko-dim50-with-normalization"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_100_160-classification"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-inception_v2-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "spiral-default-wgangp-celebahq64-gen-19steps-agent1"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-lite3-feature-vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "deeplab-ade20k"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-en-dim128-with-normalization"
+    },
+    {
+        "cur_version": 1,
+        "name": "posenet-mobilenet-quantized-1-100"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_025_224-quantops-classification"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_075_224-classification"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_025_128-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "nonsemantic-speech-benchmark-trill-distilled"
+    },
+    {
+        "cur_version": 1,
+        "name": "vision-embedder-inaturalist_V2"
+    },
+    {
+        "cur_version": 1,
+        "name": "bodypix_050"
+    },
+    {
+        "cur_version": 1,
+        "name": "llr-pretrain-adv-latents"
+    },
+    {
+        "cur_version": 1,
+        "name": "compare_gan-s3gan_20_128x128"
+    },
+    {
+        "cur_version": 1,
+        "name": "posenet-mobilenet-quantized-2-050"
+    },
+    {
+        "cur_version": 1,
+        "name": "universal-sentence-encoder-xling-en-fr"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-pnasnet_large-classification"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_025_192-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "biggan-deep-256"
+    },
+    {
+        "cur_version": 1,
+        "name": "posenet-mobilenet-float-050"
+    },
+    {
+        "cur_version": 1,
+        "name": "vae"
+    },
+    {
+        "cur_version": 1,
+        "name": "compare_gan-model_2_celebahq128_resnet19"
+    },
+    {
+        "cur_version": 1,
+        "name": "bert_en_cased_L-24_H-1024_A-16"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-de-dim50-with-normalization"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_100_160-feature_vector"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-ja-dim128-with-normalization"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_100_224-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "unsupervised-adversarial-training-cifar10-wrn_106"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-resnet_v2_152-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "biggan-deep-512"
+    },
+    {
+        "cur_version": 1,
+        "name": "rotation"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_100_128-quantops-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_0.25_224"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_0.75_192"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_100_192-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "posenet-mobilenet-quantized-1-050"
+    },
+    {
+        "cur_version": 1,
+        "name": "local-linearity-cifar10"
+    },
+    {
+        "cur_version": 1,
+        "name": "bodypix_075"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_1.0_128_quantized"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-zh-dim128"
+    },
+    {
+        "cur_version": 1,
+        "name": "handskeleton"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-zh-dim128-with-normalization"
+    },
+    {
+        "cur_version": 1,
+        "name": "videoflow-evaluator"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_075_160-feature_vector"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-id-dim50"
+    },
+    {
+        "cur_version": 1,
+        "name": "albert_lite_base"
+    },
+    {
+        "cur_version": 1,
+        "name": "bert_en_wwm_cased_L-24_H-1024_A-16"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_0.25_128_quantized"
+    },
+    {
+        "cur_version": 1,
+        "name": "wae-mmd"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_050_128-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-en-dim50-with-normalization"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-ja-dim50"
+    },
+    {
+        "cur_version": 1,
+        "name": "tfgan-eval-inception"
+    },
+    {
+        "cur_version": 1,
+        "name": "inception_v1_quant"
+    },
+    {
+        "cur_version": 1,
+        "name": "sup-rotation-100"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_1.0_224"
+    },
+    {
+        "cur_version": 1,
+        "name": "random-nnlm-en-dim128"
+    },
+    {
+        "cur_version": 1,
+        "name": "spiral-default-wgangp-celebahq64-gen-19steps-agent7"
+    },
+    {
+        "cur_version": 1,
+        "name": "bert_uncased_L-12_H-768_A-12"
+    },
+    {
+        "cur_version": 1,
+        "name": "unet-industrial-class_8"
+    },
+    {
+        "cur_version": 1,
+        "name": "remote_sensing-resisc45-resnet50"
+    },
+    {
+        "cur_version": 1,
+        "name": "planet-vision-classifier-planet_v2"
+    },
+    {
+        "cur_version": 2,
+        "name": "biggan-256"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_050_96-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v2_1.0_224"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_0.50_160"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_1.0_192"
+    },
+    {
+        "cur_version": 1,
+        "name": "bert_en_uncased_L-24_H-1024_A-16"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_025_192-classification"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-resnet_v2_101-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "posenet-mobilenet-quantized-2-100"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_050_192-classification"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_025_128-quantops-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "ssd_mobilenet_v1"
+    },
+    {
+        "cur_version": 1,
+        "name": "image_augmentation-nas_cifar"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_025_224-classification"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_100_128-feature_vector"
+    },
+    {
+        "cur_version": 4,
+        "name": "tf2-preview-mobilenet_v2-classification"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_050_192-feature_vector"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_075_128-feature_vector"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_050_192-classification"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-es-dim128-with-normalization"
+    },
+    {
+        "cur_version": 1,
+        "name": "image_augmentation-nas_imagenet"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-inception_v1-feature_vector"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-ko-dim128"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_0.75_160"
+    },
+    {
+        "cur_version": 1,
+        "name": "universal-sentence-encoder-xling-many"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_0.75_192_quantized"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-zh-dim128"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-b0-feature-vector"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_100_192-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "image_augmentation-flipx_crop_rotate_color"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_100_224-feature_vector"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_075_192-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "bert_zh_L-12_H-768_A-12"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_0.50_192_quantized"
+    },
+    {
+        "cur_version": 1,
+        "name": "vision-embedder-fungi_V2"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_130_224-feature_vector"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_100_224-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-b2-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "inception_v4_quant"
+    },
+    {
+        "cur_version": 1,
+        "name": "delf"
+    },
+    {
+        "cur_version": 1,
+        "name": "openimages_v4-ssd-mobilenet_v2"
+    },
+    {
+        "cur_version": 1,
+        "name": "spiral-default-wgangp-celebahq64-gen-19steps-agent9"
+    },
+    {
+        "cur_version": 1,
+        "name": "facemesh"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_050_224-classification"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_100_160-quantops-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-lite0-classification"
+    },
+    {
+        "cur_version": 5,
+        "name": "universal-sentence-encoder-large"
+    },
+    {
+        "cur_version": 1,
+        "name": "remote_sensing-so2sat-ms-resnet50"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-en-dim128-with-normalization"
+    },
+    {
+        "cur_version": 1,
+        "name": "mnasnet_1.0_224"
+    },
+    {
+        "cur_version": 1,
+        "name": "deeplab-pascal"
+    },
+    {
+        "cur_version": 1,
+        "name": "object_detection-mobile_object_localizer_v1"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-b5-classification"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-resnet_v2_50-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-es-dim128-with-normalization"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_100_160-feature_vector"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-resnet_v1_50-classification"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_075_128-classification"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_050_160-quantops-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "tfgan-eval-mnist-logits"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-b6-feature-vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-lite0-feature-vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "bert_uncased_L-24_H-1024_A-16"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-id-dim128"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_0.50_160_quantized"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_050_224-quantops-feature_vector"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_035_192-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "bodypix_025"
+    },
+    {
+        "cur_version": 1,
+        "name": "unet-industrial-class_4"
+    },
+    {
+        "cur_version": 1,
+        "name": "imagenet-amoebanet_a_n18_f448-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "unet-industrial-class_5"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_0.50_128"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_0.50_128_quantized"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_050_224-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "toxicity"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_100_96-feature_vector"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_075_224-quantops-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "mnasnet_1.0_160"
+    },
+    {
+        "cur_version": 1,
+        "name": "esrgan-tf2"
+    },
+    {
+        "cur_version": 1,
+        "name": "mnasnet_0.75_224"
+    },
+    {
+        "cur_version": 1,
+        "name": "llr-pretrain-adv-linear"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-nasnet_mobile-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "compare_gan-s3gan_10_128x128"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_0.75_128"
+    },
+    {
+        "cur_version": 3,
+        "name": "universal-sentence-encoder-qa"
+    },
+    {
+        "cur_version": 1,
+        "name": "i3d-kinetics-400"
+    },
+    {
+        "cur_version": 1,
+        "name": "mnasnet_1.0_96"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_1.0_160"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-resnet_v1_152-classification"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_050_160-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "bert_en_wwm_uncased_L-24_H-1024_A-16"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_075_128-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "posenet-resnet50-quantized-1"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_0.25_192_quantized"
+    },
+    {
+        "cur_version": 4,
+        "name": "tf2-preview-mobilenet_v2-feature_vector"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-de-dim128-with-normalization"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-id-dim128-with-normalization"
+    },
+    {
+        "cur_version": 1,
+        "name": "smartreply"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_075_192-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "inception_v2_quant"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_025_192-quantops-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "spiral-default-wgangp-celebahq64-gen-19steps-agent6"
+    },
+    {
+        "cur_version": 1,
+        "name": "nasnet-mobile"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-inception_v1-classification"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_025_128-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_0.25_160"
+    },
+    {
+        "cur_version": 4,
+        "name": "tf2-preview-inception_v3-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "nasnet-large"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_035_96-feature_vector"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-zh-dim50-with-normalization"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-es-dim50-with-normalization"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_1.0_192_quantized"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_050_128-classification"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_140_224-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-lite2-feature-vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-b2-feature-vector"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_075_224-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "bert_multi_cased_L-12_H-768_A-12"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-ja-dim128"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_025_160-quantops-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "compare_gan-model_5_celebahq128_resnet19"
+    },
+    {
+        "cur_version": 4,
+        "name": "speech-commands"
+    },
+    {
+        "cur_version": 2,
+        "name": "Wiki-words-500-with-normalization"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-ja-dim50"
+    },
+    {
+        "cur_version": 1,
+        "name": "wae-gan"
+    },
+    {
+        "cur_version": 1,
+        "name": "unet-industrial-class_3"
+    },
+    {
+        "cur_version": 1,
+        "name": "semi-rotation-10"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-nasnet_large-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-b0-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "squeezenet"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-zh-dim50"
+    },
+    {
+        "cur_version": 1,
+        "name": "handdetector"
+    },
+    {
+        "cur_version": 2,
+        "name": "Wiki-words-250-with-normalization"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_0.25_224_quantized"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_050_192-quantops-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "resnet_50-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "jigsaw"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_075_96-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "tweening_conv3d_kth"
+    },
+    {
+        "cur_version": 1,
+        "name": "spiral-default-wgangp-celebahq64-gen-19steps-agent3"
+    },
+    {
+        "cur_version": 3,
+        "name": "imagenet-mobilenet_v1_075_224-quantops-classification"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v1_100_128-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-zh-dim50"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-ko-dim50"
+    },
+    {
+        "cur_version": 1,
+        "name": "mil-nce-i3d"
+    },
+    {
+        "cur_version": 2,
+        "name": "nnlm-en-dim128"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_0.50_224_quantized"
+    },
+    {
+        "cur_version": 1,
+        "name": "sup-exemplar-100"
+    },
+    {
+        "cur_version": 1,
+        "name": "universal-sentence-encoder-xling-en-de"
+    },
+    {
+        "cur_version": 1,
+        "name": "compare_gan-model_1_celebahq128_resnet19"
+    },
+    {
+        "cur_version": 1,
+        "name": "deeplabv3"
+    },
+    {
+        "cur_version": 1,
+        "name": "inception_v3_quant"
+    },
+    {
+        "cur_version": 1,
+        "name": "mobilenet_v1_1.0_224_quantized"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-es-dim50"
+    },
+    {
+        "cur_version": 1,
+        "name": "ssd_mobilenet_v2"
+    },
+    {
+        "cur_version": 1,
+        "name": "efficientnet-b6-classification"
+    },
+    {
+        "cur_version": 1,
+        "name": "mil-nce-s3d"
+    },
+    {
+        "cur_version": 1,
+        "name": "unet-industrial-class_2"
+    },
+    {
+        "cur_version": 4,
+        "name": "imagenet-mobilenet_v2_035_224-feature_vector"
+    },
+    {
+        "cur_version": 1,
+        "name": "tf2-preview-nnlm-ko-dim128-with-normalization"
+    },
+    {
+        "cur_version": 2,
+        "name": "Wiki-words-250"
+    }
+]

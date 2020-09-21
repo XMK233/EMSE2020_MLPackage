@@ -1,0 +1,12 @@
+There are `1` versions in total.
+
+# _1.md_
+## Overview
+
+Modified inception V1 network used to calculate Inception Score and related eval
+metrics. Modified from
+http://download.tensorflow.org/models/image/imagenet/inception-2015-12-05.tgz.
+Works on CPU, GPU, and TPU.
+
+See `tfgan.eval` for wrapper functions that add functionality, such as support
+for very large batch sizes.

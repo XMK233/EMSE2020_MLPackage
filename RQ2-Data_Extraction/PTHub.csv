@@ -1,0 +1,30 @@
+Task Type,Algorithm,Dataset,Family,Num
+IC,DenseNet,ImageNet,IC+DenseNet+ImageNet,4
+IC,HarDNet,ImageNet,IC+HarDNet+ImageNet,4
+IC,ProxylessNAS,ImageNet,IC+ProxylessNAS+ImageNet,4
+IC,ResNet,ImageNet,IC+ResNet+ImageNet,5
+IC,ResNeXt,ImageNet,IC+ResNeXt+ImageNet,2
+IC,ResNeXt WSL,"INS, ImageNet","IC+ResNeXt WSL+INS, ImageNet",4
+IC,SS-RN,ImageNet,IC+SS-RN+ImageNet,2
+IC,SS-RNX,ImageNet,IC+SS-RNX+ImageNet,4
+IC,SWS-RN,ImageNet,IC+SWS-RN+ImageNet,2
+IC,SWS-RNX,ImageNet,IC+SWS-RNX+ImageNet,4
+IC,SqueezeNet,ImageNet,IC+SqueezeNet+ImageNet,2
+IC,VGG Net,ImageNet,IC+VGG Net+ImageNet,8
+IC,Wide ResNet,ImageNet,IC+Wide ResNet+ImageNet,2
+IG,PGAN,CelebA HQ,IG+PGAN+CelebA HQ,2
+OD,SSD,COCO,OD+SSD+COCO,2
+TE,BERT,"W, B","TE+BERT+W, B",8
+TE,BERT,"W, B, S","TE+BERT+W, B, S",4
+TE,BERT,GT,TE+BERT+GT,3
+TE,BERT,JT,TE+BERT+JT,4
+TE,BERT,W104,TE+BERT+W104,2
+TE,BERT,FT,TE+BERT+FT,2
+TE,GPT-2,O,TE+GPT-2+O,4
+TE,RoBERTa,"W, B, C, O, S","TE+RoBERTa+W, B, C, O, S",2
+TE,RoBERTa,"W, B, C, O, S, G","TE+RoBERTa+W, B, C, O, S, G",2
+TE,XLM,XNLI,TE+XLM+XNLI,2
+TE,XLM,WE&F,TE+XLM+WE&F,2
+TE,XLM,WE&G,TE+XLM+WE&G,2
+TE,XLNet,ET,TE+XLNet+ET,2
+TE,RoBERTa,"W, B, C, O, S","TE+RoBERTa+W, B, C, O, S",2

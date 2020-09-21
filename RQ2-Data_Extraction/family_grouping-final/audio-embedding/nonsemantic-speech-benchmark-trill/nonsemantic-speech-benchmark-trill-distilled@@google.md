@@ -1,0 +1,60 @@
+There are `1` versions in total.
+
+# _1.md_
+## Overview
+
+A distilled version of TRILL presented in [Towards Learning a Universal Non-Semantic Representation of Speech](http://arxiv.org/abs/2002.12764).
+
+### TF 2.X
+
+To run the model in TF 2:
+
+```python
+# Import TF 2.X and make sure we're running eager.
+module = hub.load('https://tfhub.dev/google/nonsemantic-speech-benchmark/trill-distilled/1')
+assert tf.executing_eagerly()
+
+import tensorflow_hub as hub
+import numpy as np
+
+# Load the module and run inference.
+module = hub.load('@google/nonsemantic-speech-benchmark/trill-distilled/1')
+# `wav_as_float_or_int16` can be a numpy array or tf.Tensor of float type or
+# int16. The sample rate must be 16kHz. Resample to this sample rate, if
+# necessary.
+wav_as_float_or_int16 = np.sin(np.linspace(-np.pi, np.pi, 128), dtype=np.float32)
+emb = module(samples=wav_as_float_or_int16, sample_rate=16000)['embedding']
+# `emb` is a [time, feature_dim] Tensor.
+emb.shape.assert_is_compatible_with([None, 2048])
+
+print(emb)
+```
+
+### TF 1.X
+
+Generating the embedding in TF 1.X is very similar, we just need to run the
+graph in a `tf.Session`:
+
+```python
+# Import TF 1.X.
+import tensorflow.compat.v1 as tf
+assert not tf.executing_eagerly()
+
+import tensorflow_hub as hub
+import numpy as np
+
+# Load the module and run inference.
+module = hub.load('https://tfhub.dev/google/nonsemantic-speech-benchmark/trill-distilled/1')
+module = tfhub.load('@google/nonsemantic-speech-benchmark/trill-distilled/1')
+# `wav_as_float_or_int16` can be a numpy array or tf.Tensor of float type or
+# int16. The sample rate must be 16kHz. Resample to this sample rate, if
+# necessary.
+wav_as_float_or_int16 = np.sin(np.linspace(-np.pi, np.pi, 128), dtype=np.float32)
+emb = module(samples=wav_as_float_or_int16, sample_rate=16000)['embedding']
+# `emb` is a [time, feature_dim] Tensor.
+emb.shape.assert_is_compatible_with([None, 2048])
+with tf.train.MonitoredSession() as sess:
+  emb_np = sess.run(emb)
+
+print(emb_np)
+```

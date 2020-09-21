@@ -1,0 +1,157 @@
+[
+    {
+        "dataTag": "vision",
+        "modelName": "MiDaS",
+        "modelURL": "/hub/intelisl_midas_v2/"
+    },
+    {
+        "dataTag": "vision",
+        "modelName": "ntsnet",
+        "modelURL": "/hub/nicolalandro_ntsnet-cub200_ntsnet/"
+    },
+    {
+        "dataTag": "vision,scriptable",
+        "modelName": "Deeplabv3-ResNet101",
+        "modelURL": "/hub/pytorch_vision_deeplabv3_resnet101/"
+    },
+    {
+        "dataTag": "nlp",
+        "modelName": "Transformer (NMT)",
+        "modelURL": "/hub/pytorch_fairseq_translation/"
+    },
+    {
+        "dataTag": "audio",
+        "modelName": "WaveGlow",
+        "modelURL": "/hub/nvidia_deeplearningexamples_waveglow/"
+    },
+    {
+        "dataTag": "vision",
+        "modelName": "ResNext WSL",
+        "modelURL": "/hub/facebookresearch_WSL-Images_resnext/"
+    },
+    {
+        "dataTag": "vision,generative",
+        "modelName": "DCGAN on FashionGen",
+        "modelURL": "/hub/facebookresearch_pytorch-gan-zoo_dcgan/"
+    },
+    {
+        "dataTag": "vision,generative",
+        "modelName": "Progressive Growing of GANs (PGAN)",
+        "modelURL": "/hub/facebookresearch_pytorch-gan-zoo_pgan/"
+    },
+    {
+        "dataTag": "vision",
+        "modelName": "Semi-supervised and semi-weakly supervised ImageNet Models",
+        "modelURL": "/hub/facebookresearch_semi-supervised-ImageNet1K-models_resnext/"
+    },
+    {
+        "dataTag": "nlp",
+        "modelName": "PyTorch-Transformers",
+        "modelURL": "/hub/huggingface_pytorch-transformers/"
+    },
+    {
+        "dataTag": "vision",
+        "modelName": "U-Net for brain MRI",
+        "modelURL": "/hub/mateuszbuda_brain-segmentation-pytorch_unet/"
+    },
+    {
+        "dataTag": "vision",
+        "modelName": "SSD",
+        "modelURL": "/hub/nvidia_deeplearningexamples_ssd/"
+    },
+    {
+        "dataTag": "audio",
+        "modelName": "Tacotron 2",
+        "modelURL": "/hub/nvidia_deeplearningexamples_tacotron2/"
+    },
+    {
+        "dataTag": "nlp",
+        "modelName": "RoBERTa",
+        "modelURL": "/hub/pytorch_fairseq_roberta/"
+    },
+    {
+        "dataTag": "vision,scriptable",
+        "modelName": "AlexNet",
+        "modelURL": "/hub/pytorch_vision_alexnet/"
+    },
+    {
+        "dataTag": "vision,scriptable",
+        "modelName": "Densenet",
+        "modelURL": "/hub/pytorch_vision_densenet/"
+    },
+    {
+        "dataTag": "vision,scriptable",
+        "modelName": "FCN-ResNet101",
+        "modelURL": "/hub/pytorch_vision_fcn_resnet101/"
+    },
+    {
+        "dataTag": "vision,scriptable",
+        "modelName": "GhostNet",
+        "modelURL": "/hub/pytorch_vision_ghostnet/"
+    },
+    {
+        "dataTag": "vision",
+        "modelName": "GoogLeNet",
+        "modelURL": "/hub/pytorch_vision_googlenet/"
+    },
+    {
+        "dataTag": "vision",
+        "modelName": "HarDNet",
+        "modelURL": "/hub/pytorch_vision_hardnet/"
+    },
+    {
+        "dataTag": "vision",
+        "modelName": "IBN-Net",
+        "modelURL": "/hub/pytorch_vision_ibnnet/"
+    },
+    {
+        "dataTag": "vision,scriptable",
+        "modelName": "Inception_v3",
+        "modelURL": "/hub/pytorch_vision_inception_v3/"
+    },
+    {
+        "dataTag": "vision,scriptable",
+        "modelName": "MobileNet v2",
+        "modelURL": "/hub/pytorch_vision_mobilenet_v2/"
+    },
+    {
+        "dataTag": "vision",
+        "modelName": "ProxylessNAS",
+        "modelURL": "/hub/pytorch_vision_proxylessnas/"
+    },
+    {
+        "dataTag": "vision",
+        "modelName": "ResNeSt",
+        "modelURL": "/hub/pytorch_vision_resnest/"
+    },
+    {
+        "dataTag": "vision,scriptable",
+        "modelName": "ResNet",
+        "modelURL": "/hub/pytorch_vision_resnet/"
+    },
+    {
+        "dataTag": "vision,scriptable",
+        "modelName": "ResNext",
+        "modelURL": "/hub/pytorch_vision_resnext/"
+    },
+    {
+        "dataTag": "vision,scriptable",
+        "modelName": "ShuffleNet v2",
+        "modelURL": "/hub/pytorch_vision_shufflenet_v2/"
+    },
+    {
+        "dataTag": "vision,scriptable",
+        "modelName": "SqueezeNet",
+        "modelURL": "/hub/pytorch_vision_squeezenet/"
+    },
+    {
+        "dataTag": "vision,scriptable",
+        "modelName": "vgg-nets",
+        "modelURL": "/hub/pytorch_vision_vgg/"
+    },
+    {
+        "dataTag": "vision,scriptable",
+        "modelName": "Wide ResNet",
+        "modelURL": "/hub/pytorch_vision_wide_resnet/"
+    }
+]

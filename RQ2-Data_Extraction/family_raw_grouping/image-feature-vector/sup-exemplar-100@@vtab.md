@@ -1,0 +1,28 @@
+There are `1` versions in total.
+
+# _1.md_
+## Overview
+ResNet50-v2 representation obtained by supervised training on ImageNet with an
+auxiliar Exemplar loss [1, 2].
+
+#### Usage
+
+```python
+module = hub.Module("https://tfhub.dev/vtab/sup-exemplar-100/1")
+height, width = hub.get_expected_image_size(module)
+images = ...  # A batch of images with shape [batch_size, height, width, 3].
+features = module(images)  # Features with shape [batch_size, num_features].
+```
+
+The input `images` are expected to have color values in the range [0,1], following
+the [common image input](https://www.tensorflow.org/hub/common_signatures/images#input) conventions.
+This module is suitable to be fine tuned.
+
+#### References
+[1] Alexey Dosovitskiy, Jost Tobias Springenberg, Martin Riedmiller, and Thomas Brox.
+[Discriminative Unsupervised Feature Learning with Convolutional Neural Networks](https://papers.nips.cc/paper/5548-discriminative-unsupervised-feature-learning-with-convolutional-neural-networks).
+In Advances in Neural Information Processing Systems, 2014.
+
+[2] Xiaohua Zhai, Avital Oliver, Alexander Kolesnikov, and Lucas Beyer.
+[S4L: Self-Supervised Semi-Supervised Learning](https://arxiv.org/pdf/1905.03670.pdf).
+In IEEE International Conference on Computer Vision, 2019.
